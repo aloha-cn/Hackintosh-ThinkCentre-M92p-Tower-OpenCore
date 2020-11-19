@@ -17,8 +17,8 @@ https://github.com/acidanthera/WhateverGreen/releases/download/1.4.4/WhateverGre
 https://github.com/acidanthera/AppleALC/releases/download/1.5.4/AppleALC-1.5.4-RELEASE.zip
 https://github.com/acidanthera/IntelMausi/releases/download/1.0.4/IntelMausi-1.0.4-RELEASE.zip
 https://github.com/acidanthera/VirtualSMC/releases/download/1.1.8/VirtualSMC-1.1.8-RELEASE.zip
-(For HfsPlus.efi)
 https://github.com/acidanthera/AppleSupportPkg/releases/download/2.1.7/AppleSupport-2.1.7-RELEASE.zip
+(For HfsPlus.efi)
 
 ## Instructions
 ### 1. BIOS Settings

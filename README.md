@@ -1,6 +1,6 @@
 # Hackintosh Big Sur Guide for ThinkCentre M92p Tower (OpenCore 0.6.3)
 
-![System Info](images/system.png)
+![Snapshot](images/snapshot.png)
 
 ### Hardware
 

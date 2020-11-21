@@ -1,4 +1,5 @@
 # Hackintosh Big Sur Guide for ThinkCentre M92p Tower (OpenCore 0.6.3)
+##### May be compatible with all ThinkCentre Edge 92, ThinkCentre M82, M92 and M92p, ThinkStation E31 systems.
 
 ![Snapshot](images/snapshot.png)
 
@@ -37,4 +38,5 @@ https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/
 
 ### Notice
 ##### BIOS can't do UEFI boot from HDD. My solution is plugging an extra usb stick for booting.
+##### This model doesn't support 4k video output even if installed a dGPU. No solution yet. 
 

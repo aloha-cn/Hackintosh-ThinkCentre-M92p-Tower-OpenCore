@@ -26,7 +26,7 @@ IntelMausi | 1.0.7
 * Disable secure boot
 * Enable VTx and disable VTd
 ### 2. Prepare installation media 
-https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/
+https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/  
 https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html
 ### 3. Modify 'config.plist' for your own serial number, UUID, MLB, ROM, etc.
 ### 4. SMBIOS Choices:

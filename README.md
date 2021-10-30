@@ -29,14 +29,19 @@ IntelMausi | 1.0.7
 https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/
 https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html
 ### 3. Modify 'config.plist' for your own serial number, UUID, MLB, ROM, etc.
-### 4. Copy 'BOOT' and 'OC' directories to the EFI partition of the USB disk. (HDD UEFI dosen't boot for me)
-### 5. For nVidia Kepler GPU, please refer to:
+### 4. SMBIOS Choices:
+- If you are using Intel HD4000 Graphics only: `MacPro6,1` for macOS Big Sur
+- If you are using Intel HD4000 Graphics only: `Macmini6,1` or `iMac13,2` for macOS Catalina and below
+- If you are using a Dedicated GPU: `iMacPro1,1` or even `MacPro6,1` for macOS Big Sur and above
+- if you are using a Dedicated GPU: `iMac13,2` for macOS Catalina and below
+
+### 5. Copy 'BOOT' and 'OC' directories to the EFI partition of the USB disk. (HDD UEFI dosen't boot for me)
+### 6. For nVidia Kepler GPU, please refer to:
 https://github.com/chris1111/Geforce-Kepler-patcher
-### 6. Optional Settings
+### 7. Optional Settings
 * Enable SSDT.aml for CPU PM according to your own CPU
 [See the Guide](https://github.com/Piker-Alpha/ssdtPRGen.sh)
 * Configure IGPU if you don't use dGPU (IGPU has not been supported in Monterey)
-* Configure NVMe drive if you don't use SATA
 
 
 ### Note
